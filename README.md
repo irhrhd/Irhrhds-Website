@@ -14,5 +14,3 @@ body {
   }
   </style>
 <center><p style="color:green">Check out this awesome repo on github <a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">here</a> this is a repo about hacking prodigy if you like PMG. If you like that then you'll my account giveaway repo me and my friend made. You can check that out <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking">here</a>
-  
-
