@@ -1,11 +1,10 @@
-## Welcome To Irhrhd
-
 <html>
 <head>
 <title>Welcome To Irhrhd</title>
 </head>
 <body>
 
+<center><h1>Welcome To Irhrhd</h1></center>
 <center><h1>This is my Website</h1></center>
 <center><p>this is a site where i do as i please.</p></center>
 <center><p>This is where my profile is <a href="https://github.com/irhrhd">irhrhd</a>
