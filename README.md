@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<p style="font-size:10px;"><a href="https://irhrhd.github.io/about/contact-us.html">Contact Us</a>
+<p style="font-size:10px;"><a href="https://irhrhd.github.io/about/contact-us.html">Contact Me</a>
 <center><h1>Welcome To Irhrhd</h1></center>
 <center><h1>This is my Website</h1></center>
 <center><p>this is a site where i do as i please.</p></center>
