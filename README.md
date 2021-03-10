@@ -34,3 +34,6 @@ body {
 <body style="background-color:black;">
 <center><p style="color:green">Check out this awesome repo on github <a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">here</a> this is a repo about hacking prodigy if you like PMG. If you like that then you'll my account giveaway repo me and my friend made. You can check that out <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking">here</a>
 <center><p style="color:green">If you want to learn more about me check out my about me page. If you like hacking prodigy then join the repo above or if you like hacking in general. If you need to contact me go to my contact page.</p></center>
+  
+</body>
+</html>
