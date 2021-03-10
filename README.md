@@ -5,7 +5,30 @@
 <body>
 
 <p style="font-size:15px;"><a href="https://irhrhd.github.io/Irhrhds-Website/about/about-me.html">About Me</a>|<a href="https://irhrhd.github.io/Irhrhds-Website/about/contact-us.html">Contact Me</a></p>
-<center><h1>Welcome To Irhrhd My Website</h1></center>
+<style>
+body {
+  background-color: black;
+  font-family: arial;
+}
+
+.glow {
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+</style>
+<center><h1> class="glow">Welcome To Irhrhd My Website</h1></center>
 <center><p style="color:green">this is a site where I do as I please. I like to code and hack prodigy its fun to code javascript and html. I know how to code html, javascript, css, and php. I am learning c++ and c. if youd like to join my latest project request access</p></center>
 <center><p style="color:green">This is where my profile is <a href="https://github.com/irhrhd">irhrhd</a> feel free to follow me if you'd like too. my favorite thing to do is code in my free time (i.e code on github)
 <body style="background-color:black;">
