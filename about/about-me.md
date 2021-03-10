@@ -15,5 +15,5 @@
   
   
   
-  <p style="color:darkgrey">if you read this then star any of my repos then youll get a surprise</p>
+  <p style="color:black">if you read this then star any of my repos then youll get a surprise</p>
   
