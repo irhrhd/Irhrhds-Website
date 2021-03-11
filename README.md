@@ -19,7 +19,7 @@
           <h2><strong>Irhrhd</strong></h2>
           <p class="lead">Join My Repo and Make Sure to star it for updates. </p>
 
-          <p class="lead mt-4"><a class="btn btn-outline-primary" href="https://www.froala.com">Read More</a></p>
+          <p class="lead mt-4"><a class="btn btn-outline-primary" href="https://github.com/irhrhd">Read More</a></p>
         </div>
       </div>
     </div>
