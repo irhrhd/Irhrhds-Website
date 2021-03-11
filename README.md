@@ -16,7 +16,7 @@
     <div class="row text-left justify-content-end">
       <div class="col-12 col-md-6 col-xl-5">
         <div class="fdb-box rounded-bottom-0">
-          <h2><strong>Design Blocks</strong></h2>
+          <h2><strong>Irhrhd</strong></h2>
           <p class="lead">Join My Repo and Make Sure to star it for updates. </p>
 
           <p class="lead mt-4"><a class="btn btn-outline-primary" href="https://www.froala.com">Read More</a></p>
