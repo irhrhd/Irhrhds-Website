@@ -11,4 +11,17 @@
 <body style="background-color:black;">
 <center><p style="color:green">Check out this awesome repo on github <a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">here</a> this is a repo about hacking prodigy if you like PMG. If you like that then you'll my account giveaway repo me and my friend made. You can check that out <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking">here</a>
 <center><p style="color:green">If you want to learn more about me check out my about me page. If you like hacking prodigy then join the repo above or if you like hacking in general. If you need to contact me go to my contact page.</p></center>
-  
+  <section class="fdb-block pb-0" style="background-image: url(imgs/hero/purple.svg);">
+  <div class="container">
+    <div class="row text-left justify-content-end">
+      <div class="col-12 col-md-6 col-xl-5">
+        <div class="fdb-box rounded-bottom-0">
+          <h2><strong>Design Blocks</strong></h2>
+          <p class="lead">Join My Repo and Make Sure to star it for updates. </p>
+
+          <p class="lead mt-4"><a class="btn btn-outline-primary" href="https://www.froala.com">Read More</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
